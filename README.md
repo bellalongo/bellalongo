@@ -1,18 +1,6 @@
-<head>
-    <meta charset="UTF-8">
-    <title>Centered Image</title>
-    <style>
-        .centered-image {
-            display: block;
-            margin: 0 auto;
-            width: 400px; /* Set the width of the image */
-        }
-    </style>
-</head>
-<body>
-    <img class="centered-image" src="https://github-readme-stats.vercel.app/api?username=bellalongo&show_icons=true&theme=synthwave" alt="GitHub Stats">
-</body>
-</html>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bellalongo&show_icons=true&theme=synthwave" width="400">
+</div>
 
 <!--
 **bellalongo/bellalongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
