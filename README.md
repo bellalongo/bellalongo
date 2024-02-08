@@ -2,9 +2,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bellalongo&show_icons=true&theme=material-palenight&hide_border=true&border_radius=10&hide_rank=true&hide=contribs,issues" width="300">
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellalongo&theme=material-palenight&hide_border=true&border_radius=10" width="300">
 </div>
+-->
 
 <!--
 **bellalongo/bellalongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
